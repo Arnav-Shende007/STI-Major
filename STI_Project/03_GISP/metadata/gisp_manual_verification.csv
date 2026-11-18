@@ -1,0 +1,2 @@
+page,table,geography,year,antimicrobial,extracted_value,reason_for_manual_review,what_I_need_to_verify
+12,Table 1D,National,1999-2023,Ciprofloxacin,,Ciprofloxacin 5-year periods MIC parameters are not listed in Table 1 of the 2023 National Profile report.,Verify if Ciprofloxacin 5-year periods MIC parameters are available elsewhere in the National report.

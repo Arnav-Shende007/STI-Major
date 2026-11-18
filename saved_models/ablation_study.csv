@@ -1,0 +1,6 @@
+Architecture / Modalities,Accuracy (%),Macro F1,Macro Precision,Macro Recall
+Baseline 1: Image-only (ResNet-18),36.51,0.2945,0.302,0.2905
+Baseline 2: Metadata-only (Clinical MLP),25.4,0.2036,0.2259,0.3487
+Ablation A: Image + Gender (No Site),42.86,0.3666,0.4422,0.354
+Ablation B: Image + Anatomical Site (No Gender),44.440000000000005,0.3557,0.3681,0.3498
+Proposed: Multimodal Fusion (Image + Site + Gender),46.03,0.3844,0.4615,0.3634

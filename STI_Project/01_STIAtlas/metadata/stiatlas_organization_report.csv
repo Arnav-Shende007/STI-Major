@@ -1,0 +1,317 @@
+image_id,original_raw_filename,organized_path,disease_class,review_status,included_in_organized_dataset
+STIATLAS_001,Anal_condylomata_lata_(01).jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_001.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_002,Anal_condylomata_lata_(02).jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_002.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_003,Anal_herpes_(01).jpg,01_STIAtlas/organized/Herpes_Simplex/STIATLAS_003.jpg,Herpes Simplex,verified_lesion,True
+STIATLAS_004,Anal_herpes_(02).jpg,01_STIAtlas/organized/Herpes_Simplex/STIATLAS_004.jpg,Herpes Simplex,verified_lesion,True
+STIATLAS_005,Anal_intraepithelial_neoplasia_(01).jpg,01_STIAtlas/organized/Genital_Warts/STIATLAS_005.jpg,Genital Warts,verified_lesion,True
+STIATLAS_006,Anal_warts_with_anal_intraepithelial_neoplasia_(04).jpg,01_STIAtlas/organized/Genital_Warts/STIATLAS_006.jpg,Genital Warts,verified_lesion,True
+STIATLAS_007,Anal_warts_(01).jpg,01_STIAtlas/organized/Genital_Warts/STIATLAS_007.jpg,Genital Warts,verified_lesion,True
+STIATLAS_008,Anal_warts_(02).jpg,01_STIAtlas/organized/Genital_Warts/STIATLAS_008.jpg,Genital Warts,verified_lesion,True
+STIATLAS_009,Anal_warts_(03).jpg,01_STIAtlas/organized/Genital_Warts/STIATLAS_009.jpg,Genital Warts,verified_lesion,True
+STIATLAS_010,Buschke-Lowenstein_tumour_(01)_1-5.jpg,01_STIAtlas/organized/Genital_Warts/STIATLAS_010.jpg,Genital Warts,verified_lesion,True
+STIATLAS_011,Buschke-Lowenstein_tumour_(01)_2-5.jpg,01_STIAtlas/organized/Genital_Warts/STIATLAS_011.jpg,Genital Warts,verified_lesion,True
+STIATLAS_012,Buschke-Lowenstein_tumour_(01)_3-5.jpg,01_STIAtlas/organized/Genital_Warts/STIATLAS_012.jpg,Genital Warts,verified_lesion,True
+STIATLAS_013,Buschke-Lowenstein_tumour_(01)_4-5.jpg,01_STIAtlas/organized/Genital_Warts/STIATLAS_013.jpg,Genital Warts,verified_lesion,True
+STIATLAS_014,Buschke-Lowenstein_tumour_(01)_5-5.jpg,01_STIAtlas/organized/Genital_Warts/STIATLAS_014.jpg,Genital Warts,verified_lesion,True
+STIATLAS_015,Buttock_herpes_(01).jpg,01_STIAtlas/organized/Herpes_Simplex/STIATLAS_015.jpg,Herpes Simplex,verified_lesion,True
+STIATLAS_016,Buttock_herpes_(02)_1-2.jpg,01_STIAtlas/organized/Herpes_Simplex/STIATLAS_016.jpg,Herpes Simplex,verified_lesion,True
+STIATLAS_017,Buttock_herpes_(02)_2-2.jpg,01_STIAtlas/organized/Herpes_Simplex/STIATLAS_017.jpg,Herpes Simplex,verified_lesion,True
+STIATLAS_018,Buttock_herpes_(03)_1-2.jpg,01_STIAtlas/organized/Herpes_Simplex/STIATLAS_018.jpg,Herpes Simplex,verified_lesion,True
+STIATLAS_019,Buttock_herpes_(03)_2-2.jpg,01_STIAtlas/organized/Herpes_Simplex/STIATLAS_019.jpg,Herpes Simplex,verified_lesion,True
+STIATLAS_020,Herpes_recurrence_behind_knee_(01).jpg,01_STIAtlas/organized/Herpes_Simplex/STIATLAS_020.jpg,Herpes Simplex,verified_lesion,True
+STIATLAS_021,Herpes_simplex-eczema_herpeticum_(01).jpg,01_STIAtlas/organized/Herpes_Simplex/STIATLAS_021.jpg,Herpes Simplex,verified_lesion,True
+STIATLAS_022,Herpetic_cervicitis_(01).jpg,01_STIAtlas/organized/Herpes_Simplex/STIATLAS_022.jpg,Herpes Simplex,verified_lesion,True
+STIATLAS_023,HSV-related_erythema_multiforme_(01)_1-2.jpg,01_STIAtlas/organized/Herpes_Simplex/STIATLAS_023.jpg,Herpes Simplex,verified_lesion,True
+STIATLAS_024,HSV-related_erythema_multiforme_(01)_2-2.jpg,01_STIAtlas/organized/Herpes_Simplex/STIATLAS_024.jpg,Herpes Simplex,verified_lesion,True
+STIATLAS_025,Herpetic_cervicitis_(02).jpg,01_STIAtlas/organized/Herpes_Simplex/STIATLAS_025.jpg,Herpes Simplex,verified_lesion,True
+STIATLAS_026,Herpetic_urethritis_(01).jpg,01_STIAtlas/organized/Herpes_Simplex/STIATLAS_026.jpg,Herpes Simplex,verified_lesion,True
+STIATLAS_027,Herpetic_urethritis_(02)_1-2.jpg,01_STIAtlas/organized/Herpes_Simplex/STIATLAS_027.jpg,Herpes Simplex,verified_lesion,True
+STIATLAS_028,Herpetic_urethritis_(02)_2-2.jpg,01_STIAtlas/organized/Herpes_Simplex/STIATLAS_028.jpg,Herpes Simplex,verified_lesion,True
+STIATLAS_029,Inguinal_warts_(01).jpg,01_STIAtlas/organized/Genital_Warts/STIATLAS_029.jpg,Genital Warts,verified_lesion,True
+STIATLAS_030,Chancre_before_treatment_(01).jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_030.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_031,Chancre_one_week_after_treatment_(01).jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_031.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_032,Penile_oedema-chancre_under_prepuce_(01).jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_032.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_033,Syphilitis_chancre_(01)_1-3.jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_033.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_034,Syphilitis_chancre_(01)_2-3.jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_034.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_035,Syphilitis_chancre_(01)_3-3.jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_035.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_036,Syphilitis_chancre_(02).jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_036.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_037,Syphilitis_chancre_(03).jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_037.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_038,Syphilitis_chancre_(04).jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_038.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_039,Positive_dark_ground_microscopy_(01).jpg,NA,Early Syphilis,microscopy_non_lesion,False
+STIATLAS_040,Scar_from_penile_chancre_(01).jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_040.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_041,Meatal_wart_(01)_1-2.jpg,01_STIAtlas/organized/Genital_Warts/STIATLAS_041.jpg,Genital Warts,verified_lesion,True
+STIATLAS_042,Meatal_wart_(01)_2-2.jpg,01_STIAtlas/organized/Genital_Warts/STIATLAS_042.jpg,Genital Warts,verified_lesion,True
+STIATLAS_043,Meatal_wart_(02).jpg,01_STIAtlas/organized/Genital_Warts/STIATLAS_043.jpg,Genital Warts,verified_lesion,True
+STIATLAS_044,Meatal_wart_(03).jpg,01_STIAtlas/organized/Genital_Warts/STIATLAS_044.jpg,Genital Warts,verified_lesion,True
+STIATLAS_045,Penile_bowenoid_papulosis_(01).jpg,01_STIAtlas/organized/Genital_Warts/STIATLAS_045.jpg,Genital Warts,verified_lesion,True
+STIATLAS_046,Podophyllotoxin_reaction_(01).jpg,01_STIAtlas/organized/Genital_Warts/STIATLAS_046.jpg,Genital Warts,verified_lesion,True
+STIATLAS_047,Molluscum_contagiosum_(01).jpg,01_STIAtlas/organized/Molluscum_Contagiosum/STIATLAS_047.jpg,Molluscum Contagiosum,verified_lesion,True
+STIATLAS_048,Molluscum_contagiosum_(02).jpg,01_STIAtlas/organized/Molluscum_Contagiosum/STIATLAS_048.jpg,Molluscum Contagiosum,verified_lesion,True
+STIATLAS_049,Molluscum_contagiosum_(03).jpg,01_STIAtlas/organized/Molluscum_Contagiosum/STIATLAS_049.jpg,Molluscum Contagiosum,verified_lesion,True
+STIATLAS_050,Molluscum_contagiosum_(04)_1-3.jpg,01_STIAtlas/organized/Molluscum_Contagiosum/STIATLAS_050.jpg,Molluscum Contagiosum,verified_lesion,True
+STIATLAS_051,Molluscum_contagiosum_(04)_2-3.jpg,01_STIAtlas/organized/Molluscum_Contagiosum/STIATLAS_051.jpg,Molluscum Contagiosum,verified_lesion,True
+STIATLAS_052,Molluscum_contagiosum_(04)_3-3.jpg,01_STIAtlas/organized/Molluscum_Contagiosum/STIATLAS_052.jpg,Molluscum Contagiosum,verified_lesion,True
+STIATLAS_053,Molluscum_contagiosum_(05).jpg,01_STIAtlas/organized/Molluscum_Contagiosum/STIATLAS_053.jpg,Molluscum Contagiosum,verified_lesion,True
+STIATLAS_054,Oral_wart_(01).jpg,01_STIAtlas/organized/Genital_Warts/STIATLAS_054.jpg,Genital Warts,verified_lesion,True
+STIATLAS_055,Penile_squamous_cell_cancer_(01)_3-3.jpg,01_STIAtlas/organized/Genital_Warts/STIATLAS_055.jpg,Genital Warts,verified_lesion,True
+STIATLAS_056,Penile_squamous_cell_cancer_(01)_1-3.jpg,01_STIAtlas/organized/Genital_Warts/STIATLAS_056.jpg,Genital Warts,verified_lesion,True
+STIATLAS_057,Penile_squamous_cell_cancer_(01)_2-3.jpg,01_STIAtlas/organized/Genital_Warts/STIATLAS_057.jpg,Genital Warts,verified_lesion,True
+STIATLAS_058,Thigh_herpes_(01).jpg,01_STIAtlas/organized/Herpes_Simplex/STIATLAS_058.jpg,Herpes Simplex,verified_lesion,True
+STIATLAS_059,Tinea_corporis_(01).jpg,01_STIAtlas/organized/Tinea/STIATLAS_059.jpg,Tinea,verified_lesion,True
+STIATLAS_060,Tinea_cruris_(01).jpg,01_STIAtlas/organized/Tinea/STIATLAS_060.jpg,Tinea,verified_lesion,True
+STIATLAS_061,Tinea_cruris_(02).jpg,01_STIAtlas/organized/Tinea/STIATLAS_061.jpg,Tinea,verified_lesion,True
+STIATLAS_062,Tinea_incognito_(01)_1-2.jpg,01_STIAtlas/organized/Tinea/STIATLAS_062.jpg,Tinea,verified_lesion,True
+STIATLAS_063,Tinea_incognito_(01)_2-2.jpg,01_STIAtlas/organized/Tinea/STIATLAS_063.jpg,Tinea,verified_lesion,True
+STIATLAS_064,Imiquimod_ulcer_(01).jpg,01_STIAtlas/organized/Genital_Warts/STIATLAS_064.jpg,Genital Warts,verified_lesion,True
+STIATLAS_065,Lymphoedema_and_herpes_(01)_1-2.jpg,01_STIAtlas/organized/Herpes_Simplex/STIATLAS_065.jpg,Herpes Simplex,verified_lesion,True
+STIATLAS_066,Lymphoedema_and_herpes_(01)_2-2.jpg,01_STIAtlas/organized/Herpes_Simplex/STIATLAS_066.jpg,Herpes Simplex,verified_lesion,True
+STIATLAS_067,Chronic_vulvar_herpes_in_HIV_(01).jpg,01_STIAtlas/organized/Herpes_Simplex/STIATLAS_067.jpg,Herpes Simplex,verified_lesion,True
+STIATLAS_068,Penile_herpes_(01).jpg,01_STIAtlas/organized/Herpes_Simplex/STIATLAS_068.jpg,Herpes Simplex,verified_lesion,True
+STIATLAS_069,Penile_herpes_(02).jpg,01_STIAtlas/organized/Herpes_Simplex/STIATLAS_069.jpg,Herpes Simplex,verified_lesion,True
+STIATLAS_070,Penile_herpes_(03).jpg,01_STIAtlas/organized/Herpes_Simplex/STIATLAS_070.jpg,Herpes Simplex,verified_lesion,True
+STIATLAS_071,Penile_herpes_(04).jpg,01_STIAtlas/organized/Herpes_Simplex/STIATLAS_071.jpg,Herpes Simplex,verified_lesion,True
+STIATLAS_072,Penile_herpes_(05).jpg,01_STIAtlas/organized/Herpes_Simplex/STIATLAS_072.jpg,Herpes Simplex,verified_lesion,True
+STIATLAS_073,Penile_herpes_(06).jpg,01_STIAtlas/organized/Herpes_Simplex/STIATLAS_073.jpg,Herpes Simplex,verified_lesion,True
+STIATLAS_074,Penile_herpes_(7).jpg,01_STIAtlas/organized/Herpes_Simplex/STIATLAS_074.jpg,Herpes Simplex,verified_lesion,True
+STIATLAS_075,Penile_warts_(01).jpg,01_STIAtlas/organized/Genital_Warts/STIATLAS_075.jpg,Genital Warts,verified_lesion,True
+STIATLAS_076,Penile_warts_(02).jpg,01_STIAtlas/organized/Genital_Warts/STIATLAS_076.jpg,Genital Warts,verified_lesion,True
+STIATLAS_077,Penile_warts_(03).jpg,01_STIAtlas/organized/Genital_Warts/STIATLAS_077.jpg,Genital Warts,verified_lesion,True
+STIATLAS_078,Penile_warts_(04).jpg,01_STIAtlas/organized/Genital_Warts/STIATLAS_078.jpg,Genital Warts,verified_lesion,True
+STIATLAS_079,Penile_warts_(05)_1-2.jpg,01_STIAtlas/organized/Genital_Warts/STIATLAS_079.jpg,Genital Warts,verified_lesion,True
+STIATLAS_080,Penile_warts_(05)_2-2.jpg,01_STIAtlas/organized/Genital_Warts/STIATLAS_080.jpg,Genital Warts,verified_lesion,True
+STIATLAS_081,Perineal_herpes_(01).jpg,01_STIAtlas/organized/Herpes_Simplex/STIATLAS_081.jpg,Herpes Simplex,verified_lesion,True
+STIATLAS_082,Scrotal_lichen_sclerosus_(01).jpg,01_STIAtlas/organized/Lichen_Sclerosus/STIATLAS_082.jpg,Lichen Sclerosus,verified_lesion,True
+STIATLAS_083,Primary_vulvar_herpes_(01).jpg,01_STIAtlas/organized/Herpes_Simplex/STIATLAS_083.jpg,Herpes Simplex,verified_lesion,True
+STIATLAS_084,Primary_vulvar_herpes_(02).jpg,01_STIAtlas/organized/Herpes_Simplex/STIATLAS_084.jpg,Herpes Simplex,verified_lesion,True
+STIATLAS_085,Vulvar_warts_(01).jpg,01_STIAtlas/organized/Genital_Warts/STIATLAS_085.jpg,Genital Warts,verified_lesion,True
+STIATLAS_086,Vulvar_warts_(02).jpg,01_STIAtlas/organized/Genital_Warts/STIATLAS_086.jpg,Genital Warts,verified_lesion,True
+STIATLAS_087,Penile_lichen_sclerosus_(01)_1-5.jpg,01_STIAtlas/organized/Lichen_Sclerosus/STIATLAS_087.jpg,Lichen Sclerosus,verified_lesion,True
+STIATLAS_088,Vulvar_warts_(03).jpg,01_STIAtlas/organized/Genital_Warts/STIATLAS_088.jpg,Genital Warts,verified_lesion,True
+STIATLAS_089,Vulvar_warts_(04).jpg,01_STIAtlas/organized/Genital_Warts/STIATLAS_089.jpg,Genital Warts,verified_lesion,True
+STIATLAS_090,Vulvar_warts_(05).jpg,01_STIAtlas/organized/Genital_Warts/STIATLAS_090.jpg,Genital Warts,verified_lesion,True
+STIATLAS_091,Vulvar_warts_(06).jpg,01_STIAtlas/organized/Genital_Warts/STIATLAS_091.jpg,Genital Warts,verified_lesion,True
+STIATLAS_092,Vulvar_warts_(07).jpg,01_STIAtlas/organized/Genital_Warts/STIATLAS_092.jpg,Genital Warts,verified_lesion,True
+STIATLAS_093,Vulvar_warts_(08)_1-2.jpg,01_STIAtlas/organized/Genital_Warts/STIATLAS_093.jpg,Genital Warts,verified_lesion,True
+STIATLAS_094,Vulvar_warts_(08)_2-2.jpg,01_STIAtlas/organized/Genital_Warts/STIATLAS_094.jpg,Genital Warts,verified_lesion,True
+STIATLAS_095,Penile_lichen_sclerosus_(01)_2-5.jpg,01_STIAtlas/organized/Lichen_Sclerosus/STIATLAS_095.jpg,Lichen Sclerosus,verified_lesion,True
+STIATLAS_096,Penile_lichen_sclerosus_(01)_3-5.jpg,01_STIAtlas/organized/Lichen_Sclerosus/STIATLAS_096.jpg,Lichen Sclerosus,verified_lesion,True
+STIATLAS_097,Penile_lichen_sclerosus_(01)_4-5.jpg,01_STIAtlas/organized/Lichen_Sclerosus/STIATLAS_097.jpg,Lichen Sclerosus,verified_lesion,True
+STIATLAS_098,Penile_lichen_sclerosus_(01)_5-5.jpg,01_STIAtlas/organized/Lichen_Sclerosus/STIATLAS_098.jpg,Lichen Sclerosus,verified_lesion,True
+STIATLAS_099,Penile_lichen_sclerosus_(02).jpg,01_STIAtlas/organized/Lichen_Sclerosus/STIATLAS_099.jpg,Lichen Sclerosus,verified_lesion,True
+STIATLAS_100,Penile_lichen_sclerosus_(03).jpg,01_STIAtlas/organized/Lichen_Sclerosus/STIATLAS_100.jpg,Lichen Sclerosus,verified_lesion,True
+STIATLAS_101,Penile_lichen_sclerosus_(04).jpg,01_STIAtlas/organized/Lichen_Sclerosus/STIATLAS_101.jpg,Lichen Sclerosus,verified_lesion,True
+STIATLAS_102,Penile_lichen_sclerosus_(05).jpg,01_STIAtlas/organized/Lichen_Sclerosus/STIATLAS_102.jpg,Lichen Sclerosus,verified_lesion,True
+STIATLAS_103,Penile_lichen_sclerosus_(06)_1-2.jpg,01_STIAtlas/organized/Lichen_Sclerosus/STIATLAS_103.jpg,Lichen Sclerosus,verified_lesion,True
+STIATLAS_104,Penile_lichen_sclerosus_(06)_2-2.jpg,01_STIAtlas/organized/Lichen_Sclerosus/STIATLAS_104.jpg,Lichen Sclerosus,verified_lesion,True
+STIATLAS_105,Secondary_syphilic_scrotal_condylomata_lata_(01).jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_105.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_106,Secondary_syphilis_rash_(01).jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_106.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_107,Secondary_syphilis-alopecia_(01).jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_107.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_108,Secondary_syphilis-nodular_lesions_(01).jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_108.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_109,Secondary_syphilis-rash_on_back_(02).jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_109.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_110,Secondary_syphilis-rash_on_foot_(03).jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_110.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_111,Secondary_syphilis-rash_on_palms_and_soles_(05)_1-2.jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_111.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_112,Secondary_syphilis-rash_on_palms_and_soles_(05)_2-2.jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_112.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_113,Secondary_syphilis-widespread_rash_(06)_1-4.jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_113.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_114,Secondary_syphilis-widespread_rash_(06)_2-4.jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_114.jpg,Early Syphilis,unresolved_anatomical_site,True
+STIATLAS_115,Secondary_syphilis-widespread_rash_(06)_3-4.jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_115.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_116,Secondary_syphilis-rash_on_palms_(04).jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_116.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_117,Secondary_syphilis-rash_on_palms_(04)_1-2.jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_117.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_118,Secondary_syphilis-rash_on_palms_(04)_2-2.jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_118.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_119,Secondary_syphilis-widespread_rash_(06)_4-4.jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_119.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_120,Secondary_syphilitic_balanitis_(01)_1-2.jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_120.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_121,Secondary_syphilitic_balanitis_(01)_2-2.jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_121.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_122,Secondary_syphilitic_balanitis_(02).jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_122.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_123,Secondary_syphilitic_balanitis_(03).jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_123.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_124,Secondary_syphilitic_balanitis_(04).jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_124.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_125,Secondary_syphilitic_balanitis_(05).jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_125.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_126,Secondary_syphilitic_balanitis_(06)_1-2.jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_126.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_127,Secondary_syphilitic_balanitis_(06)_2-2.jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_127.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_128,Secondary_syphilitic_balanitis_(07).jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_128.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_129,Secondary_syphilitic_balanitis_(08).jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_129.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_130,Vulvar_condylomata_lata_(01).jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_130.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_131,Vulvar_condylomata_lata_(02).jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_131.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_132,Steroid-modified_penile_herpes_(01).jpg,01_STIAtlas/organized/Herpes_Simplex/STIATLAS_132.jpg,Herpes Simplex,verified_lesion,True
+STIATLAS_133,Treponema_pallidum-darkground_microscopy.jpg,NA,Early Syphilis,microscopy_non_lesion,False
+STIATLAS_134,Vaginal_herpes_(01).jpg,01_STIAtlas/organized/Herpes_Simplex/STIATLAS_134.jpg,Herpes Simplex,verified_lesion,True
+STIATLAS_135,Vaginal_warts_(01).jpg,01_STIAtlas/organized/Genital_Warts/STIATLAS_135.jpg,Genital Warts,verified_lesion,True
+STIATLAS_136,Treated_warts_(01)_1-2.jpg,01_STIAtlas/organized/Genital_Warts/STIATLAS_136.jpg,Genital Warts,verified_lesion,True
+STIATLAS_137,Treated_warts_(01)_2-2.jpg,01_STIAtlas/organized/Genital_Warts/STIATLAS_137.jpg,Genital Warts,verified_lesion,True
+STIATLAS_138,Vulvar_herpes_(01).jpg,01_STIAtlas/organized/Herpes_Simplex/STIATLAS_138.jpg,Herpes Simplex,verified_lesion,True
+STIATLAS_139,Vulvar_herpes_(02)_1-2.jpg,01_STIAtlas/organized/Herpes_Simplex/STIATLAS_139.jpg,Herpes Simplex,verified_lesion,True
+STIATLAS_140,Vulvar_herpes_(02)_2-2.jpg,01_STIAtlas/organized/Herpes_Simplex/STIATLAS_140.jpg,Herpes Simplex,verified_lesion,True
+STIATLAS_141,Vulvar_herpes_Recurrent_(01)_1-2.jpg,01_STIAtlas/organized/Herpes_Simplex/STIATLAS_141.jpg,Herpes Simplex,verified_lesion,True
+STIATLAS_142,Vulvar_herpes_Recurrent_(01)_2-2.jpg,01_STIAtlas/organized/Herpes_Simplex/STIATLAS_142.jpg,Herpes Simplex,verified_lesion,True
+STIATLAS_143,Vulvar_imiquimod_reaction_(01).jpg,01_STIAtlas/organized/Genital_Warts/STIATLAS_143.jpg,Genital Warts,verified_lesion,True
+STIATLAS_144,Vulvar_imiquimod_reaction_(02).jpg,01_STIAtlas/organized/Genital_Warts/STIATLAS_144.jpg,Genital Warts,verified_lesion,True
+STIATLAS_145,Vulvar_imiquimod_reaction_(03).jpg,01_STIAtlas/organized/Genital_Warts/STIATLAS_145.jpg,Genital Warts,verified_lesion,True
+STIATLAS_146,Vulvar_intraepithelial_neoplasia_(01).jpg,01_STIAtlas/organized/Genital_Warts/STIATLAS_146.jpg,Genital Warts,verified_lesion,True
+STIATLAS_147,Vulvar_intraepithelial_neoplasia_(02).jpg,01_STIAtlas/organized/Genital_Warts/STIATLAS_147.jpg,Genital Warts,verified_lesion,True
+STIATLAS_148,Vulvar_intraepithelial_neoplasia_(03).jpg,01_STIAtlas/organized/Genital_Warts/STIATLAS_148.jpg,Genital Warts,verified_lesion,True
+STIATLAS_149,Vulvar_lichen_sclerosus _(02)_1-2.jpg,01_STIAtlas/organized/Lichen_Sclerosus/STIATLAS_149.jpg,Lichen Sclerosus,verified_lesion,True
+STIATLAS_150,Vulvar_lichen_sclerosus_(02)_2-2.jpg,01_STIAtlas/organized/Lichen_Sclerosus/STIATLAS_150.jpg,Lichen Sclerosus,verified_lesion,True
+STIATLAS_151,Vulvar_lichen_sclerosus_(01)_1-2.jpg,01_STIAtlas/organized/Lichen_Sclerosus/STIATLAS_151.jpg,Lichen Sclerosus,verified_lesion,True
+STIATLAS_152,Vulvar_lichen_sclerosus_(01)_2-2.jpg,01_STIAtlas/organized/Lichen_Sclerosus/STIATLAS_152.jpg,Lichen Sclerosus,verified_lesion,True
+STIATLAS_153,Vulvar_lichen_sclerosus_(03)_1-2.jpg,01_STIAtlas/organized/Lichen_Sclerosus/STIATLAS_153.jpg,Lichen Sclerosus,verified_lesion,True
+STIATLAS_154,Vulvar_lichen_sclerosus_(03)_2-2.jpg,01_STIAtlas/organized/Lichen_Sclerosus/STIATLAS_154.jpg,Lichen Sclerosus,verified_lesion,True
+STIATLAS_155,Vulvar_lichen_sclerosus_(04)_1-2.jpg,01_STIAtlas/organized/Lichen_Sclerosus/STIATLAS_155.jpg,Lichen Sclerosus,verified_lesion,True
+STIATLAS_156,Vulvar_lichen_sclerosus_(09).jpg,01_STIAtlas/organized/Lichen_Sclerosus/STIATLAS_156.jpg,Lichen Sclerosus,verified_lesion,True
+STIATLAS_157,Vulvar_lichen_sclerosus_(04)_2-2.jpg,01_STIAtlas/organized/Lichen_Sclerosus/STIATLAS_157.jpg,Lichen Sclerosus,verified_lesion,True
+STIATLAS_158,Vulvar_lichen_sclerosus_(05).jpg,01_STIAtlas/organized/Lichen_Sclerosus/STIATLAS_158.jpg,Lichen Sclerosus,verified_lesion,True
+STIATLAS_159,Vulvar_lichen_sclerosus_(06).jpg,01_STIAtlas/organized/Lichen_Sclerosus/STIATLAS_159.jpg,Lichen Sclerosus,verified_lesion,True
+STIATLAS_160,Vulvar_lichen_sclerosus_(07).jpg,01_STIAtlas/organized/Lichen_Sclerosus/STIATLAS_160.jpg,Lichen Sclerosus,verified_lesion,True
+STIATLAS_161,Vulvar_lichen_sclerosus_(08).jpg,01_STIAtlas/organized/Lichen_Sclerosus/STIATLAS_161.jpg,Lichen Sclerosus,verified_lesion,True
+STIATLAS_162,Vulvar_lichen_sclerosus_(08)_1-2.jpg,01_STIAtlas/organized/Lichen_Sclerosus/STIATLAS_162.jpg,Lichen Sclerosus,verified_lesion,True
+STIATLAS_163,Vulvar_lichen_sclerosus_(08)_2-2.jpg,01_STIAtlas/organized/Lichen_Sclerosus/STIATLAS_163.jpg,Lichen Sclerosus,verified_lesion,True
+STIATLAS_164,Anal_wart_(4).jpg,01_STIAtlas/organized/Genital_Warts/STIATLAS_164.jpg,Genital Warts,verified_lesion,True
+STIATLAS_165,Anal_wart_(5).jpg,01_STIAtlas/organized/Genital_Warts/STIATLAS_165.jpg,Genital Warts,verified_lesion,True
+STIATLAS_166,Vulvar_lichen_sclerosus_(10).jpg,01_STIAtlas/organized/Lichen_Sclerosus/STIATLAS_166.jpg,Lichen Sclerosus,verified_lesion,True
+STIATLAS_167,Balanitis_xerotica_obliterans_(1).jpg,01_STIAtlas/organized/Lichen_Sclerosus/STIATLAS_167.jpg,Lichen Sclerosus,verified_lesion,True
+STIATLAS_168,Cervical_wart_(1).jpg,01_STIAtlas/organized/Genital_Warts/STIATLAS_168.jpg,Genital Warts,verified_lesion,True
+STIATLAS_169,Cervical_wart_(2).jpg,01_STIAtlas/organized/Genital_Warts/STIATLAS_169.jpg,Genital Warts,verified_lesion,True
+STIATLAS_170,Chancre_at_urethral_meatus_(1).jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_170.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_171,Chancre_on_inner_lip_(1).jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_171.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_172,Meatal_wart_(4)_1-2.jpg,01_STIAtlas/organized/Genital_Warts/STIATLAS_172.jpg,Genital Warts,verified_lesion,True
+STIATLAS_173,Meatal_wart_(4)_2-2.jpg,01_STIAtlas/organized/Genital_Warts/STIATLAS_173.jpg,Genital Warts,verified_lesion,True
+STIATLAS_174,Molluscum_contagiosum_(6).jpg,01_STIAtlas/organized/Molluscum_Contagiosum/STIATLAS_174.jpg,Molluscum Contagiosum,verified_lesion,True
+STIATLAS_175,Molluscum_contagiosum_(7).jpg,01_STIAtlas/organized/Molluscum_Contagiosum/STIATLAS_175.jpg,Molluscum Contagiosum,verified_lesion,True
+STIATLAS_176,Tinea_corporis_(1).jpg,01_STIAtlas/organized/Tinea/STIATLAS_176.jpg,Tinea,verified_lesion,True
+STIATLAS_177,Meatal_wart_(5).jpg,01_STIAtlas/organized/Genital_Warts/STIATLAS_177.jpg,Genital Warts,verified_lesion,True
+STIATLAS_178,Secondary_syphils_(23).jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_178.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_179,Vulvar_herpes_(5).jpg,01_STIAtlas/organized/Herpes_Simplex/STIATLAS_179.jpg,Herpes Simplex,verified_lesion,True
+STIATLAS_180,Vulvar_herpes_(6)_1-3.jpg,01_STIAtlas/organized/Herpes_Simplex/STIATLAS_180.jpg,Herpes Simplex,verified_lesion,True
+STIATLAS_181,Vulvar_herpes_(6)_2-3.jpg,01_STIAtlas/organized/Herpes_Simplex/STIATLAS_181.jpg,Herpes Simplex,verified_lesion,True
+STIATLAS_182,Vulvar_herpes_(6)_3-3.jpg,01_STIAtlas/organized/Herpes_Simplex/STIATLAS_182.jpg,Herpes Simplex,verified_lesion,True
+STIATLAS_183,Warts_in_anal_canal_(1).jpg,01_STIAtlas/organized/Genital_Warts/STIATLAS_183.jpg,Genital Warts,verified_lesion,True
+STIATLAS_184,Warts_in_anal_canal_(2).jpg,01_STIAtlas/organized/Genital_Warts/STIATLAS_184.jpg,Genital Warts,verified_lesion,True
+STIATLAS_185,Warts_in_anal_canal_(3)_1-2.jpg,01_STIAtlas/organized/Genital_Warts/STIATLAS_185.jpg,Genital Warts,verified_lesion,True
+STIATLAS_186,Warts_in_anal_canal_(3)_2-2.jpg,01_STIAtlas/organized/Genital_Warts/STIATLAS_186.jpg,Genital Warts,verified_lesion,True
+STIATLAS_187,Balanitis_xerotica_obliterans_(02).jpg,01_STIAtlas/organized/Lichen_Sclerosus/STIATLAS_187.jpg,Lichen Sclerosus,verified_lesion,True
+STIATLAS_188,Meatal_wart_(06).jpg,01_STIAtlas/organized/Genital_Warts/STIATLAS_188.jpg,Genital Warts,verified_lesion,True
+STIATLAS_189,Syphilitic_chancre_(05)_1-2.jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_189.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_190,Syphilitic_chancre_(05)_2-2.jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_190.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_191,Tinea_corporis_(03).JPG,01_STIAtlas/organized/Tinea/STIATLAS_191.jpg,Tinea,verified_lesion,True
+STIATLAS_192,Penile_herpes_(08).JPG,01_STIAtlas/organized/Herpes_Simplex/STIATLAS_192.jpg,Herpes Simplex,verified_lesion,True
+STIATLAS_193,Penile_herpes_(09).jpg,01_STIAtlas/organized/Herpes_Simplex/STIATLAS_193.jpg,Herpes Simplex,verified_lesion,True
+STIATLAS_194,Secondary_syphilis-rash_on_palms_and_soles_(06)_1-2.JPG,01_STIAtlas/organized/Early_Syphilis/STIATLAS_194.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_195,Vulvar_and_perineal_warts_(01)_1-3.jpg,01_STIAtlas/organized/Genital_Warts/STIATLAS_195.jpg,Genital Warts,verified_lesion,True
+STIATLAS_196,Penile_lichen_sclerosus_(07).jpg,01_STIAtlas/organized/Lichen_Sclerosus/STIATLAS_196.jpg,Lichen Sclerosus,verified_lesion,True
+STIATLAS_197,Secondary_syphilis-rash_on_palms_and_soles_(06)_2-2.jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_197.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_198,Vulvar_and_perineal_warts_(01)_3-3.jpg,01_STIAtlas/organized/Genital_Warts/STIATLAS_198.jpg,Genital Warts,verified_lesion,True
+STIATLAS_199,Vulvar_and_perineal_warts_(02).jpg,01_STIAtlas/organized/Genital_Warts/STIATLAS_199.jpg,Genital Warts,verified_lesion,True
+STIATLAS_200,Vulvar_and_perineal_warts_(03).jpg,01_STIAtlas/organized/Genital_Warts/STIATLAS_200.jpg,Genital Warts,verified_lesion,True
+STIATLAS_201,Vulvar_intraepithelial_neoplasia_(05)_1-3.JPG,01_STIAtlas/organized/Genital_Warts/STIATLAS_201.jpg,Genital Warts,verified_lesion,True
+STIATLAS_202,Vulvar_intraepithelial_neoplasia_(05)_2-3.JPG,01_STIAtlas/organized/Genital_Warts/STIATLAS_202.jpg,Genital Warts,verified_lesion,True
+STIATLAS_203,Vulvar_intraepithelial_neoplasia_(06)_1-7.JPG,01_STIAtlas/organized/Genital_Warts/STIATLAS_203.jpg,Genital Warts,verified_lesion,True
+STIATLAS_204,Vulvar_intraepithelial_neoplasia_(06)_2-7.JPG,01_STIAtlas/organized/Genital_Warts/STIATLAS_204.jpg,Genital Warts,verified_lesion,True
+STIATLAS_205,Vulvar_intraepithelial_neoplasia_(06)_3-7.JPG,01_STIAtlas/organized/Genital_Warts/STIATLAS_205.jpg,Genital Warts,verified_lesion,True
+STIATLAS_206,Vulvar_intraepithelial_neoplasia_(06)_4-7.JPG,01_STIAtlas/organized/Genital_Warts/STIATLAS_206.jpg,Genital Warts,verified_lesion,True
+STIATLAS_207,Vulvar_intraepithelial_neoplasia_(06)_5-7.JPG,01_STIAtlas/organized/Genital_Warts/STIATLAS_207.jpg,Genital Warts,verified_lesion,True
+STIATLAS_208,Vulvar_intraepithelial_neoplasia_(06)_6-7.JPG,01_STIAtlas/organized/Genital_Warts/STIATLAS_208.jpg,Genital Warts,verified_lesion,True
+STIATLAS_209,Vulvar_intraepithelial_neoplasia_(04).JPG,01_STIAtlas/organized/Genital_Warts/STIATLAS_209.jpg,Genital Warts,verified_lesion,True
+STIATLAS_210,Vulvar_intraepithelial_neoplasia_(06)_7-7.JPG,01_STIAtlas/organized/Genital_Warts/STIATLAS_210.jpg,Genital Warts,verified_lesion,True
+STIATLAS_211,Penile_herpes_(10).JPG,01_STIAtlas/organized/Herpes_Simplex/STIATLAS_211.jpg,Herpes Simplex,verified_lesion,True
+STIATLAS_212,Secondary_syphilis_lesions_(01)_4-5.JPG,01_STIAtlas/organized/Early_Syphilis/STIATLAS_212.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_213,Secondary_syphilis_lesions_(01)_1-5.JPG,01_STIAtlas/organized/Early_Syphilis/STIATLAS_213.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_214,Secondary_syphilis_lesions_(01)_2-5.JPG,01_STIAtlas/organized/Early_Syphilis/STIATLAS_214.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_215,Secondary_syphilis_lesions_(01)_3-5.JPG,01_STIAtlas/organized/Early_Syphilis/STIATLAS_215.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_216,Secondary_syphilis_lesions_(01)_5-5.JPG,01_STIAtlas/organized/Early_Syphilis/STIATLAS_216.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_217,Vulvar_intraepithelial_neoplasia_(07).JPG,01_STIAtlas/organized/Genital_Warts/STIATLAS_217.jpg,Genital Warts,verified_lesion,True
+STIATLAS_218,Penile_warts_(06).JPG,01_STIAtlas/organized/Genital_Warts/STIATLAS_218.jpg,Genital Warts,verified_lesion,True
+STIATLAS_219,Podophyllotoxin_reaction_(02).JPG,01_STIAtlas/organized/Genital_Warts/STIATLAS_219.jpg,Genital Warts,verified_lesion,True
+STIATLAS_220,Secondary_syphilis_lesions_(03)_1-3.jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_220.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_221,Secondary_syphilis_lesions_(03)_2-3.jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_221.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_222,Secondary_syphilis_lesions_(03)_3-3.jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_222.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_223,Inguinal_warts_(02).JPG,01_STIAtlas/organized/Genital_Warts/STIATLAS_223.jpg,Genital Warts,verified_lesion,True
+STIATLAS_224,Secondary_syphilis_27.jpg.JPG,01_STIAtlas/organized/Early_Syphilis/STIATLAS_224.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_225,Vulvar_Bowenoid_papulosis.jpg.JPG,01_STIAtlas/organized/Genital_Warts/STIATLAS_225.jpg,Genital Warts,verified_lesion,True
+STIATLAS_226,Vulvar_lichen_sclerosus_10.jpg.JPG,01_STIAtlas/organized/Lichen_Sclerosus/STIATLAS_226.jpg,Lichen Sclerosus,verified_lesion,True
+STIATLAS_227,Secondary_syphilis_lesions_(02)_1-4.JPG,01_STIAtlas/organized/Early_Syphilis/STIATLAS_227.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_228,Vulvar_lichen_sclerosus_11.jpg.JPG,01_STIAtlas/organized/Lichen_Sclerosus/STIATLAS_228.jpg,Lichen Sclerosus,verified_lesion,True
+STIATLAS_229,Anal_squamous_cell_carcinoma_(01).JPG,01_STIAtlas/organized/Genital_Warts/STIATLAS_229.jpg,Genital Warts,verified_lesion,True
+STIATLAS_230,Secondary_syphilis_lesions_(02)_2-4.JPG,01_STIAtlas/organized/Early_Syphilis/STIATLAS_230.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_231,Secondary_syphilis_lesions_(02)_3-4.JPG,01_STIAtlas/organized/Early_Syphilis/STIATLAS_231.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_232,Secondary_syphilis_lesions_(02)_4-4.JPG,01_STIAtlas/organized/Early_Syphilis/STIATLAS_232.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_233,Perineal_herpes_(02).JPG,01_STIAtlas/organized/Herpes_Simplex/STIATLAS_233.jpg,Herpes Simplex,verified_lesion,True
+STIATLAS_234,Cervical_wart_(03).jpg,01_STIAtlas/organized/Genital_Warts/STIATLAS_234.jpg,Genital Warts,verified_lesion,True
+STIATLAS_235,Secondary_syphilis_meatitis_(1).jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_235.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_236,Vulvar_wart_(1)_1-2.jpg,01_STIAtlas/organized/Genital_Warts/STIATLAS_236.jpg,Genital Warts,verified_lesion,True
+STIATLAS_237,Vulvar_wart_(1)_2-2.jpg,01_STIAtlas/organized/Genital_Warts/STIATLAS_237.jpg,Genital Warts,verified_lesion,True
+STIATLAS_238,Penile_herpes_11.JPG,01_STIAtlas/organized/Herpes_Simplex/STIATLAS_238.jpg,Herpes Simplex,verified_lesion,True
+STIATLAS_239,Secondary_syphilis_12_( 1_of_2).JPG,01_STIAtlas/organized/Early_Syphilis/STIATLAS_239.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_240,Secondary_syphilis_12_( 2_of_2).JPG,01_STIAtlas/organized/Early_Syphilis/STIATLAS_240.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_241,332120TESH23062014e.jpg,01_STIAtlas/organized/Herpes_Simplex/STIATLAS_241.jpg,Herpes Simplex,verified_lesion,True
+STIATLAS_242,333120TESH23062014d.jpg,01_STIAtlas/organized/Herpes_Simplex/STIATLAS_242.jpg,Herpes Simplex,verified_lesion,True
+STIATLAS_243,333120TESH23062014a.jpg,01_STIAtlas/organized/Herpes_Simplex/STIATLAS_243.jpg,Herpes Simplex,verified_lesion,True
+STIATLAS_244,040892JORA_Bowenoid_papulosis3.jpg,01_STIAtlas/organized/Genital_Warts/STIATLAS_244.jpg,Genital Warts,verified_lesion,True
+STIATLAS_245,040892_JORA_Bowenoid_papulosis2.jpg,01_STIAtlas/organized/Genital_Warts/STIATLAS_245.jpg,Genital Warts,verified_lesion,True
+STIATLAS_246,333120TESH23062014b.jpg,01_STIAtlas/organized/Herpes_Simplex/STIATLAS_246.jpg,Herpes Simplex,verified_lesion,True
+STIATLAS_247,333120TESH23062014c.jpg,01_STIAtlas/organized/Herpes_Simplex/STIATLAS_247.jpg,Herpes Simplex,verified_lesion,True
+STIATLAS_248,340192_KE_AN_6_8_67_mucous_patch_4_9_14.jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_248.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_249,336290HEXIgenitalulcer4_05_05_14.jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_249.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_250,341040HUCH29092014_e.jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_250.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_251,343378HAEL (5) 9DEC14.jpg,01_STIAtlas/organized/Molluscum_Contagiosum/STIATLAS_251.jpg,Molluscum Contagiosum,verified_lesion,True
+STIATLAS_252,343378HAEL (4) 9DEC14.jpg,01_STIAtlas/organized/Molluscum_Contagiosum/STIATLAS_252.jpg,Molluscum Contagiosum,verified_lesion,True
+STIATLAS_253,343378HAEL (7) 9DEC14.JPG,01_STIAtlas/organized/Molluscum_Contagiosum/STIATLAS_253.jpg,Molluscum Contagiosum,verified_lesion,True
+STIATLAS_254,199591 TR.JO. syphilis 10.12.2014.jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_254.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_255,Penile herpes 10.jpg,01_STIAtlas/organized/Herpes_Simplex/STIATLAS_255.jpg,Herpes Simplex,verified_lesion,True
+STIATLAS_256,Secondary syphilis 32a.jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_256.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_257,Secondary syphilis 32b.jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_257.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_258,Secondary syphilis 33.jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_258.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_259,Secondary syphilis 34.jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_259.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_260,Buttock herpes 5.jpg,01_STIAtlas/organized/Herpes_Simplex/STIATLAS_260.jpg,Herpes Simplex,verified_lesion,True
+STIATLAS_261,Penile chancre 8.jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_261.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_262,Secondary syphilis 35.jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_262.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_263,Secondary syphilis 36.jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_263.jpg,Early Syphilis,unresolved_anatomical_site,True
+STIATLAS_264,Secondary syphilis 37.jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_264.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_265,secondary syphilis 38.jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_265.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_266,Secondary syphilis 39.jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_266.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_267,Secondary syphilis 40.jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_267.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_268,Secondary syphilis 41.jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_268.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_269,Secondary syphilis 42.jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_269.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_270,Syphilitic urethritis 1.jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_270.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_271,Syphilitic urethritis 2.jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_271.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_272,Anal chancre.jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_272.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_273,Penile chancre 10.jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_273.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_274,Penile chancre 9.jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_274.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_275,Penile herpes 11.jpg,01_STIAtlas/organized/Herpes_Simplex/STIATLAS_275.jpg,Herpes Simplex,verified_lesion,True
+STIATLAS_276,Penile herpes 11 - hand autoinoculation.jpg,01_STIAtlas/organized/Herpes_Simplex/STIATLAS_276.jpg,Herpes Simplex,verified_lesion,True
+STIATLAS_277,Squamous cell carcinoma in situ.jpg,01_STIAtlas/organized/Genital_Warts/STIATLAS_277.jpg,Genital Warts,verified_lesion,True
+STIATLAS_278,Penile chancre 11.jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_278.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_279,Penile chancre 12.jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_279.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_280,Scrotal chancre.jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_280.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_281,Secondary syphilis 43 (1 of 2).jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_281.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_282,Secondary syphilis 43 (2 of 2.jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_282.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_283,Secondary syphilis 44 (1 of 2).jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_283.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_284,Secondary syphilis 44 (2 of 2).jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_284.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_285,Secondary syphilis 45.jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_285.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_286,Anal warts 6 (1 of 2).JPG,01_STIAtlas/organized/Genital_Warts/STIATLAS_286.jpg,Genital Warts,verified_lesion,True
+STIATLAS_287,AnalWarts6-2of2.JPG,01_STIAtlas/organized/Genital_Warts/STIATLAS_287.jpg,Genital Warts,verified_lesion,True
+STIATLAS_288,ButtockHerpes6.JPG,01_STIAtlas/organized/Herpes_Simplex/STIATLAS_288.jpg,Herpes Simplex,verified_lesion,True
+STIATLAS_289,ButtockHerpes7.JPG,01_STIAtlas/organized/Herpes_Simplex/STIATLAS_289.jpg,Herpes Simplex,verified_lesion,True
+STIATLAS_290,Secondary syphilis 46.jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_290.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_291,PenileChancre13.jpg,01_STIAtlas/organized/Early_Syphilis/STIATLAS_291.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_292,PenileChancre14.JPG,01_STIAtlas/organized/Early_Syphilis/STIATLAS_292.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_293,PenileChancre15.JPG,01_STIAtlas/organized/Early_Syphilis/STIATLAS_293.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_294,PenileChancre16.JPG,01_STIAtlas/organized/Early_Syphilis/STIATLAS_294.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_295,PenileChancre17.JPG,01_STIAtlas/organized/Early_Syphilis/STIATLAS_295.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_296,SecondarySyphilis47.JPG,01_STIAtlas/organized/Early_Syphilis/STIATLAS_296.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_297,SecondarySyphilis48.JPG,01_STIAtlas/organized/Early_Syphilis/STIATLAS_297.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_298,PenileHerpes12.JPG,01_STIAtlas/organized/Herpes_Simplex/STIATLAS_298.jpg,Herpes Simplex,verified_lesion,True
+STIATLAS_299,SecondarySyphilis49-1of2.JPG,01_STIAtlas/organized/Early_Syphilis/STIATLAS_299.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_300,SecondarySyphilis49-2of2.JPG,01_STIAtlas/organized/Early_Syphilis/STIATLAS_300.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_301,VulvarHerpes7.JPG,01_STIAtlas/organized/Herpes_Simplex/STIATLAS_301.jpg,Herpes Simplex,verified_lesion,True
+STIATLAS_302,VulvarHerpes8.JPG,01_STIAtlas/organized/Herpes_Simplex/STIATLAS_302.jpg,Herpes Simplex,verified_lesion,True
+STIATLAS_303,PenileHerpes13-1of2.JPG,01_STIAtlas/organized/Herpes_Simplex/STIATLAS_303.jpg,Herpes Simplex,verified_lesion,True
+STIATLAS_304,PenileHerpes13-2of2.JPG,01_STIAtlas/organized/Herpes_Simplex/STIATLAS_304.jpg,Herpes Simplex,verified_lesion,True
+STIATLAS_305,PenileHerpes14.JPG,01_STIAtlas/organized/Herpes_Simplex/STIATLAS_305.jpg,Herpes Simplex,verified_lesion,True
+STIATLAS_306,PenileLichenSclerosus8.JPG,01_STIAtlas/organized/Lichen_Sclerosus/STIATLAS_306.jpg,Lichen Sclerosus,verified_lesion,True
+STIATLAS_307,PenileLichenSclerosus9.JPG,01_STIAtlas/organized/Lichen_Sclerosus/STIATLAS_307.jpg,Lichen Sclerosus,verified_lesion,True
+STIATLAS_308,PerianalHerpes2.JPG,01_STIAtlas/organized/Herpes_Simplex/STIATLAS_308.jpg,Herpes Simplex,verified_lesion,True
+STIATLAS_309,SecondarySyphilis50-1of6.JPG,01_STIAtlas/organized/Early_Syphilis/STIATLAS_309.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_310,SecondarySyphilis50-2of6.JPG,01_STIAtlas/organized/Early_Syphilis/STIATLAS_310.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_311,SecondarySyphilis50-3of6.JPG,01_STIAtlas/organized/Early_Syphilis/STIATLAS_311.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_312,SecondarySyphilis50-4of6.JPG,01_STIAtlas/organized/Early_Syphilis/STIATLAS_312.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_313,SecondarySyphilis50-5of6.JPG,01_STIAtlas/organized/Early_Syphilis/STIATLAS_313.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_314,SecondarySyphilis50-6of6.JPG,01_STIAtlas/organized/Early_Syphilis/STIATLAS_314.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_315,SecondarySyphilis51.JPG,01_STIAtlas/organized/Early_Syphilis/STIATLAS_315.jpg,Early Syphilis,verified_lesion,True
+STIATLAS_316,SecondarySyphilis52.JPG,01_STIAtlas/organized/Early_Syphilis/STIATLAS_316.jpg,Early Syphilis,verified_lesion,True

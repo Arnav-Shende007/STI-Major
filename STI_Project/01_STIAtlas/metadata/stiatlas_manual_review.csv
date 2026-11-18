@@ -1,0 +1,5 @@
+image_id,disease_class,original_filename,review_status,anatomical_site,site_group,source_page_url,description
+STIATLAS_039,Early Syphilis,Positive_dark_ground_microscopy_(01).jpg,microscopy_non_lesion,NA,NA,https://stiatlas.org/SearchAtlas.aspx?pageidx=15,NA
+STIATLAS_114,Early Syphilis,Secondary_syphilis-widespread_rash_(06)_2-4.jpg,unresolved_anatomical_site,NA,NA,https://stiatlas.org/SearchAtlas.aspx?pageidx=37,Patient was HIV positive.
+STIATLAS_133,Early Syphilis,Treponema_pallidum-darkground_microscopy.jpg,microscopy_non_lesion,NA,NA,https://stiatlas.org/SearchAtlas.aspx?pageidx=40,NA
+STIATLAS_263,Early Syphilis,Secondary syphilis 36.jpg,unresolved_anatomical_site,NA,NA,https://stiatlas.org/SearchAtlas.aspx?pageidx=72,Alopecia

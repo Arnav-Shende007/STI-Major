@@ -1,0 +1,9 @@
+variable_name,data_type,description,allowable_values,resistance_thresholds,source,notes
+year,Integer,Surveillance report year,1986 to Present,NA,CDC GISP / CARGOS,Primary temporal key.
+geography,String,Sentinel clinic site or national aggregate,e.g. National; Atlanta; San Francisco,NA,CDC GISP / CARGOS,Primary geographic key.
+pathogen,String,Target bacterial pathogen,Neisseria gonorrhoeae,NA,CDC GISP / CARGOS,Fixed value for GISP data.
+antimicrobial,String,Antibiotic drug name,Ceftriaxone; Cefixime; Azithromycin; Ciprofloxacin; Penicillin; Tetracycline; Gentamicin,NA,CDC GISP / CARGOS,Monitored antimicrobial agents.
+mic_threshold_ug_ml,Float,Minimum Inhibitory Concentration threshold for resistance or alert level,e.g. 0.125; 0.25; 1.0; 2.0,NA,CDC GISP / CARGOS,MIC alert values.
+resistance_measure,String,Classification metric for resistance or elevated MIC,Resistance; Elevated MIC; Non-susceptible,NA,CDC GISP / CARGOS,Measurement category.
+resistance_percent,Float,Percentage of isolates exceeding the MIC threshold,0.0 to 100.0,NA,CDC GISP / CARGOS,Surveillance metric.
+sample_count,Integer,Number of isolates tested in the cohort,Positive integers,NA,CDC GISP / CARGOS,Denominator for percentage calculation.
